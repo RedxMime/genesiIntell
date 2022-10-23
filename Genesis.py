@@ -75,7 +75,7 @@ def dos2():
 
 
 def usage():
-	print (''' GENESIS INTELLIGENCE TEAM
+	print (''' (GENESIS INTELLIGENCE TEAM)
 	TGT :  [-s] [-p] [-t]
 	-h : help
 	-s : server ip
